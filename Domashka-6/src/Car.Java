@@ -73,3 +73,5 @@ public class Car {
         this.regNumber = regNumber;
     }
 }
+
+// ДЗ 6
